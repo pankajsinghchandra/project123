@@ -1,1 +1,2 @@
-# project123
+Lesson Plan App
+This is a web app for managing lesson plans. Access it at https://yourusername.github.io/project222.
